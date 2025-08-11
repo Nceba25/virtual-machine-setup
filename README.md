@@ -18,7 +18,7 @@ Virtual machines allow safe testing and troubleshooting without affecting your m
 
 ## Screenshots
 
-![VM running](vm-screenshot1.png) 
+![VM running](Virtual-Mach.jpg) 
 
 ---
 
