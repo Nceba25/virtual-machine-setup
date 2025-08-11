@@ -1,2 +1,25 @@
-# virtual-machine-setup
-Step-by-step guide to setting up and configuring virtual machines.
+# Virtual Machine Setup & Configuration
+
+This project demonstrates how to create and configure virtual machines for isolated testing environments.
+
+## Overview
+
+- Install VirtualBox or VMware Workstation Player  
+- Create a new virtual machine (Windows/Linux)  
+- Allocate resources (RAM, CPU, storage)  
+- Install the guest operating system  
+- Use snapshots to save and restore VM states
+
+## Why It Matters
+
+Virtual machines allow safe testing and troubleshooting without affecting your main system — a critical skill in IT support.
+
+---
+
+## Screenshots
+
+![VM running](vm-screenshot1.png) 
+
+---
+
+This project showcases practical skills useful in IT support roles.
