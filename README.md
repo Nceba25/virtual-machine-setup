@@ -18,7 +18,7 @@ Virtual machines allow safe testing and troubleshooting without affecting your m
 
 ## Screenshots
 
-![VM running]([Virtual-Mach.jpg](https://github.com/Nceba25/virtual-machine-setup/blob/main/Virtual%20Mach.jpg?raw=true)) 
+![VM running][Virtual-Mach.jpg](https://github.com/Nceba25/virtual-machine-setup/blob/main/Virtual%20Mach.jpg?raw=true)
 
 ---
 
